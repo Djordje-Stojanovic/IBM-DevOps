@@ -1,2 +1,2 @@
 # IBM-DevOps
-IBM DevOps and Software Engineering Professional Certificate - Course done by Djordje Stojanovic
+IBM DevOps and Software Engineering Professional Certificate - Courses done by Djordje Stojanovic
